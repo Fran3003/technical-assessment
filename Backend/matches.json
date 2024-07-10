@@ -1,0 +1,32 @@
+[
+  {
+    "team": "Real Madrid",
+    "goals": 2,
+    "yellow_cards": 1,
+    "shots": 10
+  },
+  {
+    "team": "Barcelona",
+    "goals": 3,
+    "yellow_cards": 2,
+    "shots": 15
+  },
+  {
+    "team": "Liverpool",
+    "goals": 4,
+    "yellow_cards": 0,
+    "shots": 12
+  },
+  {
+    "team": "Manchester City",
+    "goals": 1,
+    "yellow_cards": 3,
+    "shots": 8
+  },
+  {
+    "team": "Bayern Munich",
+    "goals": 5,
+    "yellow_cards": 1,
+    "shots": 18
+  }
+]
