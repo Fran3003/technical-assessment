@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/ffb73bc6-8d41-4814-b2d6-977dfc13cfd0
+
 # Prueba Técnica para Desarrollador/a Full-Stack Junior en Galactikos
 
 Esta evaluación técnica está diseñada para medir tus competencias en el desarrollo de aplicaciones utilizando React Native, así como tu habilidad para interactuar con un servidor Python para solicitar y presentar datos.
@@ -10,6 +12,7 @@ Las reglas son:
 
 - Cada gol sumará 30 puntos.
 - Cada tarjeta amarilla restará 5 puntos.
+
 - Cada intento de gol sumará 5 puntos.
 
 En el proyecto, encontrarás un archivo [app.js] que tendrá el array, el cual usarás para calcular los puntajes.
